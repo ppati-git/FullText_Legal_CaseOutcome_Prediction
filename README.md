@@ -1,1 +1,5 @@
-# FullText_Legal_CaseOutcome_Prediction
+# AI in the Courtroom: Enhancing Legal Decision-Making through Predictive Modellingn
+
+Legal outcome prediction or legal judgement prediction is the process of making predictions of the possible outcome of a legal proceeding based on its case file. This work focuses on the importance of allowing less privilege or marginalised groups to have better access to law services. This work discusses the implementation of 13 different deep learning and the results obtained for each of the model. The range of models employed encompasses a spectrum from basic perceptron models to more 
+complex convolutional network models and encoder-based models. The models like multi-layer perceptron (MLP), convolutional neural network (CNN) model, BERT, LegalBERT, DistilBERT, RoBERTa and the different combinations of these encoder-based models were implemented. The input to these models is the case files and their corresponding judgement status. Four different classes of petitions and appeals, submitted to the court, were considered to train all the models. The efficiency of these models 
+was tested in terms of various performance metrics like training accuracy, testing accuracy, training loss, validation loss and F1 score.
